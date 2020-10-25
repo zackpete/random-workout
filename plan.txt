@@ -1,0 +1,5 @@
+workout { run : 2 | swim : 1 }
+run { tempo : 2 | LSD : 1 | interval: 5 }
+interval [ (lap), (rest) ]
+lap { 1/4 mile : 1 | 1/2 mile : 1 }
+rest { 2 minutes : 2 | 3 minutes : 2 | 4 minutes : 1 }
